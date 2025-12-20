@@ -1,0 +1,7 @@
+{
+  "name": "Copy of مدیریت نانوایی نانیک (NANIK BAKERY)",
+  "description": "سیستم مدیریت جامع نانوایی و قنادی سنتی شامل فروش، انبارداری و گزارش‌های مالی به زبان فارسی.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
